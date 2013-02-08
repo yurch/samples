@@ -2,7 +2,7 @@
  * ! Copyright (c) 2013 Yuriy Yurchenko (http://github.com/yurch)
  * 
  * @fileOverview Tool for safe logging. (soon on github!)
- * @author <a href="mailto:work@yuriy@gmail.com">Yuriy Yurchenko</a>
+ * @author <a href="mailto:work.yuriy@gmail.com">Yuriy Yurchenko</a>
  * @version 0.1.1
  */
 
